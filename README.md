@@ -1,4 +1,44 @@
 ﻿@[toc]
+效果：
+登录页：
+1、包含表单校验
+2、路由守卫
+3、密码显示切换
+4、输入框的重置功能
+![在这里插入图片描述](https://img-blog.csdnimg.cn/f30118e174654fb5897e64b982563446.png)
+
+学生管理包含
+1、侧边栏菜单
+2、面包屑导航
+3、学生新增功能
+4、学生查询功能
+5、学生信息修改
+6、学生信息删除
+7、学生信息查询校验
+8、elementui前端分页功能
+![在这里插入图片描述](https://img-blog.csdnimg.cn/992e2be09f094a01a1d4c8f3e6914d0b.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/0648568fed63446db5a8e4d46ab37be4.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/74185a14b8b54f75bd40678f7c821a93.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/34a39769718c455abf3e460f4b333664.png)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e49b5bdeef5542bd87ac116951ff545d.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/f5eaf85b9d524005b1624ef670973fea.png)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c128d1c835204249b5af149e58eac744.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/de551c33c54540dfba02363bb5a1a9a3.png)
+作业列表
+![在这里插入图片描述](https://img-blog.csdnimg.cn/6c3a77ccee7d4331a33be0afc178a4a9.png)
+
+信息列表
+![在这里插入图片描述](https://img-blog.csdnimg.cn/fe530e963c3a4695bcf05c19df40de7e.png)
+
+考勤列表
+![在这里插入图片描述](https://img-blog.csdnimg.cn/088d1c6705124d469070133c1160b6bb.png)
+echarts实时关联学生管理中的数据，以可视化呈现
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/77d426af72334b838da31112839eeb6b.png)
+
+
 
 # 一、项目初始化
 ## 初始化安装
